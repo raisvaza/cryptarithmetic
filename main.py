@@ -1,2 +1,2 @@
-#Input Operand
-op1 = 
+f = open("data.txt","r")
+print(f.read())
